@@ -1,7 +1,5 @@
 hello 
 title 
-<<<<<<< HEAD
 feature a branch
-=======
 feature b branch
->>>>>>> feature-b
+
